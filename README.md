@@ -38,8 +38,8 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 * Hadoop
 * Hive
 
-
-
+#### Find me at..
+https://www.linkedin.com/in/rakendu-ramesh/
 
 
 

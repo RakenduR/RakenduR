@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my Github portfolio. This is where I share the projects I have done as part of academics, self learning, group projects or hobby. Feel free to look around and dont forget to starif you like it 😊
+Welcome to my Github portfolio. This is where I share the projects I have done as part of academics, self learning, group projects or for fun :) . Feel free to look around and dont forget to starif you like it 😊
 
 #### About Me
 

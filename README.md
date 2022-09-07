@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my Github portfolio. This is where I share the projects I have done as part of my learning journey. Feel free to look around and dont forget to star
-if you like it 😊
+Welcome to my Github portfolio. This is where I share the projects I have done as part of academics, self learning, group projects or hobby. Feel free to look around and dont forget to starif you like it 😊
 
 #### About Me
 
@@ -26,6 +25,18 @@ if you like it 😊
 * Proficient in developing Data Visualisation Dashboards using Power BI and Tableau
 * Experienced as  Business and Quality Analyst in Insurance and Banking sectors
 * Excellent Communication skills and experienced in vendor and stakeholder management
+
+#### My Skills
+Python
+Tableau
+Power BI
+SQL
+R
+AWS EC2, S3
+ASP.net
+C#
+Hadoop
+Hive
 
 
 

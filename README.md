@@ -27,16 +27,16 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 * Excellent Communication skills and experienced in vendor and stakeholder management
 
 #### My Skills
-Python
-Tableau
-Power BI
-SQL
-R
-AWS EC2, S3
-ASP.net
-C#
-Hadoop
-Hive
+* Python
+* Tableau
+* Power BI
+* SQL
+* R
+* AWS EC2, S3
+* ASP.net
+* C#
+* Hadoop
+* Hive
 
 
 

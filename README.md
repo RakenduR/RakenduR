@@ -27,7 +27,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 * Excellent Communication skills and experienced in vendor and stakeholder management
 
 #### My Skills
-* Python
+* Python <br/>
   https://github.com/RakenduR/VaccinationDashboard
   https://github.com/RakenduR/Healthcare_Analytics
   

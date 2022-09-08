@@ -28,14 +28,30 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### My Skills
 * Python
+  https://github.com/RakenduR/VaccinationDashboard
+  https://github.com/RakenduR/Healthcare_Analytics
+  
 * Tableau
+  https://github.com/RakenduR/Healthcare_Analytics
+  https://public.tableau.com/app/profile/rakendu5820
+  
 * Power BI
+
 * SQL
+
 * R
+  https://github.com/RakenduR/VisualAnalytics
+  https://rakendu-mitb2021.netlify.app/
+  
 * AWS EC2, S3
+  https://rakendu-blog.netlify.app/posts/deploymltoaws/
+  
 * ASP.net
+
 * C#
+
 * Hadoop
+
 * Hive
 
 #### Find me at..

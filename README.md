@@ -27,6 +27,17 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 * Excellent Communication skills and experienced in vendor and stakeholder management
 
 #### My Skills
+* Data Analysis
+* Machine Learning
+  * Feature Engineering
+  * Model Training
+  * Hyper Paramter Tuning
+  * Model Comparison
+  * Pipeline Building
+* Data Visualisation
+
+
+#### My Tools
 * Python <br/>
   https://github.com/RakenduR/VaccinationDashboard<br/>
   https://github.com/RakenduR/Healthcare_Analytics

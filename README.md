@@ -19,7 +19,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### About Me
 
-- 🔭 Data Analysis and Data Science Professional
+- 🔭 Passionate about all things data
 - 🌱 Master of IT in Business - Analytics Student at Singapore Management University,2022
 - 🌏 Lives in Singapore 
 

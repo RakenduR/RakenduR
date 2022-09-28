@@ -19,12 +19,9 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### About Me
 
-* Data Analysis and Data Science Professional
-* Skilled in Python, R, ASP.net and SQL
-* Skilled in Machine Learning lifecycle - Exploratory Data Analysis, Data Wrangling, Model Training, Hyper Parameter Tuning, Pipeline Building 
-* Proficient in developing Data Visualisation Dashboards using Power BI and Tableau
-* Experienced as  Business and Quality Analyst in Insurance and Banking sectors
-* Excellent Communication skills and experienced in vendor and stakeholder management
+🔭 Data Analysis and Data Science Professional
+🌱 Master of IT in Business - Analytics Student at Singapore Management University,2022
+🌏 Lives in Singapore 
 
 #### My Skills
 * Data Analysis

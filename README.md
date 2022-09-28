@@ -31,7 +31,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
   * Hyper Paramter Tuning
   * Model Comparison
   * Pipeline Building
-* Data Visualisation
+* Data Visualization
 
 
 #### My Tools

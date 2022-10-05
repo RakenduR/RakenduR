@@ -66,5 +66,5 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 https://www.linkedin.com/in/rakendu-ramesh/
 
 
-
+![Profile views](https://gpvc.arturio.dev/[RakenduR])
 

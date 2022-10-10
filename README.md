@@ -64,6 +64,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### Find me at..
 https://www.linkedin.com/in/rakendu-ramesh/
+https://medium.com/@rakendu.ramesh
 
 
 ![Profile views](https://gpvc.arturio.dev/RakenduR)

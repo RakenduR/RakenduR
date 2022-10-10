@@ -63,7 +63,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 * Hive
 
 #### Find me at..
-https://www.linkedin.com/in/rakendu-ramesh/
+https://www.linkedin.com/in/rakendu-ramesh/<br/>
 https://medium.com/@rakendu.ramesh
 
 

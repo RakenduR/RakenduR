@@ -52,6 +52,7 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
   https://rakendu-mitb2021.netlify.app/
   
 * AWS EC2, S3<br/>
+* https://medium.com/mlearning-ai/how-to-deploy-ml-model-to-cloud-and-integrate-with-tableau-54aae634930e
   https://rakendu-blog.netlify.app/posts/deploymltoaws/
   
 * ASP.net

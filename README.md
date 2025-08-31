@@ -74,5 +74,4 @@ https://www.linkedin.com/in/rakendu-ramesh/<br/>
 https://medium.com/@rakendu.ramesh
 
 
-![Profile views](https://gpvc.arturio.dev/RakenduR)
-
+![Profile views](https://komarev.com/ghpvc/?username=RakenduR)

@@ -26,6 +26,8 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### My Skills
 * Requirement Analysis
+* UAT Co-ordination
+* Project Management
 * Stakeholder Management
 * Data Analysis
 * Data Visualization

@@ -19,20 +19,24 @@ Welcome to my Github portfolio. This is where I share the projects I have done a
 
 #### About Me
 
+- 🤵‍♀️ Business Technology Analyst at Tata Consultancy services
 - 🔭 Passionate about all things data
-- 🌱 Master of IT in Business - Analytics Student at Singapore Management University,2022
+- 🌱 Master of IT in Business - Analytics from Singapore Management University,2022
 - 🌏 Lives in Singapore 
 
 #### My Skills
+* Requirement Analysis
+* Stakeholder Management
 * Data Analysis
-* Machine Learning
-  * Feature Engineering
-  * Model Training
-  * Hyper Paramter Tuning
-  * Model Comparison
-  * Pipeline Building
 * Data Visualization
 
+#### Technology
+* SQL
+* Python
+* ASP.net
+* Power BI
+* MS Office
+* JIRA, Confluence
 
 #### My Tools
 * Python <br/>
